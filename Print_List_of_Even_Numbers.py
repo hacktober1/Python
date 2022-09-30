@@ -5,7 +5,7 @@ even_list = [i for i in list_number if i % 2 == 0]
 print(even_list)
 exit()  # Another one
 n = int(input("Enter the required range : "))  # user input
-list = []
+list = []fusidofuisdu
 
 if n < 0:
     print("Not a valid number, please enter a positive number!")
