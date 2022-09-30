@@ -7,7 +7,7 @@ while (loop < 10):
     noun2 = input("Choose a noun: ")
     place = input("Name a place: ")
     adjective = input("Choose an adjective (Describing word): ")
-    noun3 = input("Choose a noun: ")
+    noun3 = input("Choose a noun: ")jjjj
 // Displays the story based on the users input
     print ("------------------------------------------")
     print ("Be kind to your",noun,"- footed", p_noun)
